@@ -1,3 +1,7 @@
+  [![MasterHead](https://github.com/sanjaygodawat0/sanjaygodawat0/assets/126377932/b1af93bc-ae48-4222-8a7c-3ad441c7d377)]()
+
+
+
 
 
    <h1 align="center">Hello world!<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
@@ -12,7 +16,8 @@
    <a href="https://www.instagram.com/gurumukhprajapat/">
   <img src="https://www.instagram.com/p/CjnVnf0JbQW/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" alt="Instagram">
 </a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058342883149381632?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7058342883149381632%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDGtIz5ilQ7aJ0DiwJrSCOA%3D%3D">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058342883149381632?updateEntityUrn=urn%3Ali%3Afs_updateV![Black   Blue Gaming Futuristic Youtube Intro (2)](https://github.com/sanjaygodawat0/sanjaygodawat0/assets/126377932/ea7eff4a-5d5b-4dc3-9f7b-d032b7527437)
+2%3A%28urn%3Ali%3Aactivity%3A7058342883149381632%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDGtIz5ilQ7aJ0DiwJrSCOA%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
