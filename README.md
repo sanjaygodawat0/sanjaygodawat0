@@ -1,4 +1,5 @@
-  [![MasterHead](https://github.com/sanjaygodawat0/sanjaygodawat0/assets/126377932/b1af93bc-ae48-4222-8a7c-3ad441c7d377)]()
+
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/sanjaygodawat0/sanjaygodawat0/assets/126377932/4d138d7f-3e1a-461b-9d8e-cdce9e8458ea)
 
 
 
